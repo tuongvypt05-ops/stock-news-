@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/tin-tuc/page": "app/tin-tuc/page.js",
+  "/api/news/update/route": "app/api/news/update/route.js",
+  "/api/news/today/route": "app/api/news/today/route.js"
+}
